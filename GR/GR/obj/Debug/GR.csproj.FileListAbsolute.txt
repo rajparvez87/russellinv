@@ -1,0 +1,13 @@
+C:\Projects\Russell\GR\GR\bin\Debug\GR.exe.config
+C:\Projects\Russell\GR\GR\bin\Debug\GR.exe
+C:\Projects\Russell\GR\GR\bin\Debug\GR.pdb
+C:\Projects\Russell\GR\GR\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Russell\GR\GR\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Russell\GR\GR\obj\Debug\GR.csproj.CoreCompileInputs.cache
+C:\Projects\Russell\GR\GR\obj\Debug\GR.csproj.CopyComplete
+C:\Projects\Russell\GR\GR\obj\Debug\GR.exe
+C:\Projects\Russell\GR\GR\obj\Debug\GR.pdb
+C:\Projects\Russell\GR\GR\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Projects\Russell\GR\GR\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Projects\Russell\GR\GR\bin\Debug\xunit.runner.utility.net452.dll
+C:\Projects\Russell\GR\GR\bin\Debug\xunit.abstractions.dll
